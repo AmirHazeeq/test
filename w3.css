@@ -4,9 +4,8 @@
 	font-family: helvetica;
 }
 header{
-	background-image:url(Redblack.jpg);
+	background-image:url(RedBlack.jpg);
 	height: 137vh;
-        no-repeat center fixed;
 	background-size: cover;
 	background-position: center;
 	margin: 0;
